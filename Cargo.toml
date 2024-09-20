@@ -1,0 +1,9 @@
+[package]
+name = "xd"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+capitalize = "0.3.4"
+text_io = "0.1.12"
+
